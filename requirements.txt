@@ -1,0 +1,8 @@
+googledrivedownloader==0.4
+pygsheets==2.0.5
+regex
+pandas
+git+https://github.com/tweepy/tweepy.git
+torch
+bertopic
+vaderSentiment
